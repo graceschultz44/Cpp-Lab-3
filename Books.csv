@@ -1,0 +1,8 @@
+ID,AUTHOR_ID,TITLE,GENRE,PUBLISHER
+1,1,Harry Potter and the Sorcerer’s Stone,Fiction,Bloomsbury Publishing
+2,1,Harry Potter and the Chamber of Secrets,Fiction,Bloomsbury Publishing
+3,1,Harry Potter and the Prisoner of Azkaban,Fiction,Bloomsbury Publishing
+4,2,The Hobbit,Fantasy,George Allen & Unwin
+5,2,The Lord of the Rings: The Fellowship of the Ring,Fantasy,George Allen & Unwin
+6,3,The Shining,Horror,Simon & Schuster
+7,4,The DaVinci Code,Fiction,Simon & Schuster
